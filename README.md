@@ -1,2 +1,1 @@
-# skillauditai
-Business Analytics
+Business Analytics Internship from SKillauditai
